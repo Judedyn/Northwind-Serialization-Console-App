@@ -1,0 +1,40 @@
+[
+  {
+    "CategoryID": 1,
+    "CategoryName": "Beverages",
+    "Products": [
+      {
+        "ProductID": 1,
+        "ProductName": "Chai"
+      },
+      {
+        "ProductID": 2,
+        "ProductName": "Chang"
+      }
+    ]
+  },
+  {
+    "CategoryID": 2,
+    "CategoryName": "Condiments",
+    "Products": [
+      {
+        "ProductID": 3,
+        "ProductName": "Aniseed Syrup"
+      },
+      {
+        "ProductID": 4,
+        "ProductName": "Chef Anton\u0027s Cajun Seasoning"
+      }
+    ]
+  },
+  {
+    "CategoryID": 3,
+    "CategoryName": "Confections",
+    "Products": [
+      {
+        "ProductID": 5,
+        "ProductName": "Chocolate"
+      }
+    ]
+  }
+]
