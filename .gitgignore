@@ -1,0 +1,91 @@
+# =========================
+
+# .NET / C# / Visual Studio
+
+# =========================
+
+# Build results
+
+bin/
+obj/
+
+# Visual Studio files
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+
+.idea/
+
+# VS Code
+
+.vscode/
+
+# =========================
+
+# Logs & temp files
+
+# =========================
+
+*.log
+*.tmp
+*.temp
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# NuGet packages
+
+# =========================
+
+*.nupkg
+packages/
+
+# =========================
+
+# Publish / output
+
+# =========================
+
+publish/
+out/
+
+# =========================
+
+# Serialization output files (your app)
+
+# =========================
+
+data.json
+data.xml
+data.bin
+data-datacontract.xml
+
+# =========================
+
+# SQL Server local files
+
+# =========================
+
+*.mdf
+*.ldf
+
+# =========================
+
+# Secrets / config (optional)
+
+# =========================
+
+appsettings.Development.json
