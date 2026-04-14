@@ -149,12 +149,6 @@ After running the program, the following files are created:
 
 ---
 
-## Author
-
-Frans Jude Del Castillo
-
----
-
 ## Purpose
 
 This project was created as part of a .NET course assignment to demonstrate understanding of database access and serialization techniques.
